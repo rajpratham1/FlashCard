@@ -1,5 +1,4 @@
 # 📝 Todo REST API
----
 
 > A production-ready RESTful API built with **Node.js**, **Express.js**, and **MongoDB** featuring JWT authentication and full CRUD Todo management.
 
@@ -349,6 +348,4 @@ Made with ❤️ by [rajpratham1](https://github.com/rajpratham1)
 ⭐ Star this repo if you found it helpful!
 
 </div>
-#   F l a s h C a r d 
- 
- 
+#
